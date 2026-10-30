@@ -1,3 +1,3 @@
 # hello-world
-First GitHub entry
+First GitHub entry.
 I'm Clive, a retired developer trying to learn new techniques.
